@@ -35,7 +35,7 @@ A solução foi implementada em Java e consiste em quatro classes principais: `C
 Esta classe representa uma conversão de moeda. Ela armazena a moeda de origem, a moeda de destino, o valor a ser 
 convertido, a taxa de conversão e o resultado da conversão.
 
-### Classe `ApiConverter`
+### Classe `RequisicaoAPI`
 Esta classe é responsável por interagir com a API de conversão de moeda. Ela monta a URL da API, envia a requisição e 
 processa a resposta para obter a taxa de conversão e o resultado da conversão.
 
