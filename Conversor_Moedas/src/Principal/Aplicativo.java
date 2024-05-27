@@ -8,6 +8,7 @@ public class Aplicativo {
     public static void main(String[] args) throws IOException, InterruptedException {
         System.out.println("****** Aplicativo Conversor de Moedas ******\n");
 
+        //Atualização GitHub
         MenuUsuario menu = new MenuUsuario();
         menu.menu();
     }
